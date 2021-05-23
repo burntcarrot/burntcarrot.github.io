@@ -1,0 +1,18 @@
+::selection {
+  color: #323333;
+  background: #32f6fb;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+#info,
+#about,
+#projects {
+  padding: 35px 0;
+}
+
+.text-muted {
+  padding: 25px 0;
+}
